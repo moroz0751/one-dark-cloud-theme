@@ -38,7 +38,7 @@
       {
         "label": "One Dark Cloud Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/one-dark-cloud-color-theme.json.json"
+        "path": "./themes/one-dark-cloud-color-theme.json"
       }
     ]
   }

@@ -8,14 +8,8 @@ Includes progressive coloring for up-to 8 `.json` levels.
 
 ## Install
 
-In VSCode, open the command palette and run:
+Install directly from [VSCode marketplace](https://marketplace.visualstudio.com/items?itemName=oleg-moroz.one-dark-cloud-theme) or manually from CLI:
 
-```
-ext install one-dark-cloud-theme
-```
-
-or directly from CLI:
-
-```
+```bash
 code --install-extension one-dark-cloud-theme
 ```

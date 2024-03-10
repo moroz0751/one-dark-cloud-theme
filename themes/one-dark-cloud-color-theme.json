@@ -224,13 +224,16 @@
         // Syntax
         //-----------------------------
         {
-            "name": "Booleans, Symbols, Operators, ",
+            "name": "Booleans, Symbols, Operators",
             "scope": [
                 "constant.language",
                 "constant.other.symbol",
                 "keyword.operator",
                 "keyword.other",
                 "constant.character.format",
+                "punctuation.separator.statement",
+                "punctuation.terminator.statement",
+                "punctuation.definition.logical-expression",
             ],
             "settings": {
                 "foreground": "#c678dd",
@@ -259,6 +262,7 @@
                 "variable.other.readwrite.class",
                 "variable.other.readwrite.global",
                 "variable.other.readwrite.instance",
+                "variable.other.normal.shell"
             ],
             "settings": {
                 "foreground": "#e06c75",

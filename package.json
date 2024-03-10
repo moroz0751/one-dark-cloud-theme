@@ -2,7 +2,7 @@
   "name": "one-dark-cloud-theme",
   "displayName": "One Dark Cloud Theme",
   "description": "Soft dark theme for VSCode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.87.0"
   },

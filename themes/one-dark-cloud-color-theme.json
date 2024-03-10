@@ -481,6 +481,15 @@
                 "foreground": "#e06c75",
             }
         },
+        {
+            "name": "Markup links",
+            "scope": [
+                "markup.underline.link.markdown"
+            ],
+            "settings": {
+                "foreground": "#61afef",
+            }
+        },
 		{
 			"name": "Deleted",
 			"scope": "markup.deleted",

@@ -13,3 +13,11 @@ Install directly from [VSCode marketplace](https://marketplace.visualstudio.com/
 ```bash
 code --install-extension one-dark-cloud-theme
 ```
+
+## WSL terminal
+
+In WSL, you may notice some directories are highlighted with green when using `ls`. You can fix it by adding the following to your WSL's `~/.bashrc`:
+
+```bash
+LS_COLORS="ow=01;36"
+```

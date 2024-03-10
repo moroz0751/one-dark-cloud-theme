@@ -2,7 +2,7 @@
   "name": "one-dark-cloud-theme",
   "displayName": "One Dark Cloud Theme",
   "description": "Soft dark theme for VSCode",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -10,7 +10,7 @@
   "publisher": "oleg-moroz",
   "icon": "icon.png",
   "bugs": {
-    "url": "https://github.com/moroz0751/one-dark-cloud-theme/issues"
+    "url": "https://github.com/moroz0751/vscode-one-dark-cloud/issues"
   },
   "keywords": [
     "theme",
@@ -28,7 +28,7 @@
   ],
   "repository": {
       "type": "git",
-      "url": "https://github.com/moroz0751/one-dark-cloud-theme.git"
+      "url": "https://github.com/moroz0751/vscode-one-dark-cloud.git"
   },
   "categories": [
     "Themes"

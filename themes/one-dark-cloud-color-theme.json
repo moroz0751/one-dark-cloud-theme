@@ -1,5 +1,5 @@
 {
-    "name": "moroz-one-dark-theme",
+    "name": "one-dark-cloud-theme",
     //-----------------------------
     // Color Legend
     //-----------------------------
@@ -207,7 +207,7 @@
         {
             "name": "Escape Characters, Embedded Constants & Punctuation",
             "scope": [
-                "constant.character.escape.regexp",
+                "constant.character.escape",
                 "constant.escape",
                 "punctuation.section.embedded",
                 "storage.type.string",

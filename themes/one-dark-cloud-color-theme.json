@@ -303,6 +303,7 @@
             "scope": [
                 "keyword.control",
                 "keyword.control.import",
+                "keyword.package",
                 "keyword.control.pseudo-method",
                 "keyword.control.ruby",
                 "keyword.operator.other.ruby",
@@ -349,8 +350,10 @@
             }
         },
         {
-            "name": "Keywords for Classes, Functions, Modules, Storage",
+            "name": "Keywords for Classes, Functions, Modules, Storage, Variables",
             "scope": [
+                "keyword.var",
+                "keyword.function",
                 "keyword.control.class",
                 "keyword.control.def",
                 "keyword.control.module",

@@ -208,6 +208,7 @@
             "name": "Escape Characters, Embedded Constants & Punctuation",
             "scope": [
                 "constant.character.escape",
+                "constant.other.placeholder",
                 "constant.escape",
                 "punctuation.section.embedded",
                 "storage.type.string",

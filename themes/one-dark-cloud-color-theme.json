@@ -311,6 +311,8 @@
                 "keyword.other.special-method",
                 "keyword.other.substitution",
                 "keyword.other.template",
+                "keyword.interface",
+                "keyword.struct",
                 "constant.other.color",
             ],
             "settings": {
@@ -358,6 +360,7 @@
                 "keyword.control.class",
                 "keyword.control.def",
                 "keyword.control.module",
+                "keyword.type",
                 "storage.modifier",
                 "storage.type",
             ],

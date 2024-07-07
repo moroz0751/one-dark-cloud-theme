@@ -16,7 +16,9 @@ code --install-extension one-dark-cloud-theme
 
 ## WSL terminal
 
-In WSL, you may notice some directories are highlighted with green when using `ls`. You can fix it by adding the following to your WSL's `~/.bashrc`:
+In the WSL terminal, you may notice some directories are highlighted with green when using `ls`.
+
+This is a WSL quirk which can be fixed by adding the following to WSL's `~/.bashrc`:
 
 ```bash
 LS_COLORS="ow=01;36"

@@ -249,6 +249,7 @@
             "scope": [
                 "constant.language",
                 "constant.other.symbol",
+                "keyword.const",
                 "keyword.operator",
                 "keyword.other",
                 "constant.character.format",

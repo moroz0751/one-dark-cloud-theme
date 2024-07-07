@@ -6,10 +6,10 @@ from typing import ClassVar
 class Cloud:
     TYPES: ClassVar[list[int]] = ["Cumulus", "Stratus", "Cirrus", "Nimbostratus"]
 
-    def __init__(self, color: str, type: str | None = None):
+    def __init__(self, color: str, ctype: str | None = None):
         """One dark but not so stormy night..."""
         self.color = color
-        self.type = type or random.choice(self.TYPES)
+        self.type = ctype or random.choice(self.TYPES)
         self._altitude = None
 
     @property

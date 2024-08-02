@@ -12,9 +12,7 @@
     //
     // "blue_vibrant":                  "#528bff",
     // "blue_dim":                      "#4d78cc",
-    // "blue_soft_dim":                 "#6d99ea",
     // "blue_soft_light":               "#61afef",
-    // "blue_dull":                     "#35569266",
     // "blue_dark":                     "#528bff3d",
     //
     // "brown":                         "#523d14",
@@ -23,8 +21,9 @@
     // "gray_lightest":                 "#626772",
     // "gray_light":                    "#3e4451",
     // "gray_light_border":             "#2d313a",
-    // "gray_dark":                     "#282c34",
-    // "gray_darker":                   "#99bbff0a",
+    // "gray_dark":                     "#333943",
+    // "gray_darker":                   "#2a2e38",
+    // "gray_darker_transparent":       "#99bbff0a",
     // "gray_darkest":                  "#21252b",
     //
     // "green_lightest":                "#c3e88d",
@@ -34,9 +33,6 @@
     //
     // "orange":                        "#d27b53",
     //
-    // "purple":                        "#c678ddƒ",
-    //
-    // "red_vibrant":                   "#ff5370",
     // "red":                           "#f76d6f",
     // "red_soft":                      "#e06c75",
     //
@@ -58,7 +54,7 @@
         "button.foreground": "#d7dae0",
         "button.hoverBackground": "#61afef",
         "diffEditor.insertedTextBackground": "#00809b33",
-        "dropdown.background": "#99bbff0a",
+        "dropdown.background": "#333943",
         "dropdown.border": "#21252b",
         "editor.background": "#282c34",
         "editor.findMatchHighlightBackground": "#528bff3d",
@@ -81,7 +77,7 @@
         "editorRuler.foreground": "#3e4451",
         "editorSuggestWidget.background": "#21252b",
         "editorSuggestWidget.border": "#21252b",
-        "editorSuggestWidget.selectedBackground": "#99bbff0a",
+        "editorSuggestWidget.selectedBackground": "#2a2e38",
         "editorWarning.foreground": "#e5c07b",
         "editorWhitespace.foreground": "#abb2bf26",
         "editorWidget.background": "#282c34",
@@ -89,7 +85,7 @@
         "focusBorder": "#21252b",
         "input.background": "#282c34",
         "input.border": "#21252b",
-        "list.activeSelectionBackground": "#35569266",
+        "list.activeSelectionBackground": "#21252b",
         "list.activeSelectionForeground": "#ffffff",
         "list.errorForeground": "#e06c75",
         "list.focusBackground": "#282c34",
